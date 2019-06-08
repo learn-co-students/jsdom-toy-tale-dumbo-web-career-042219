@@ -27,10 +27,11 @@ body {
   padding: 1rem;
   width: 15rem;
   height: 25rem;
-  display: inline-grid;
+  display: inline-block;
   margin: 1rem 2rem;
   box-shadow: 3px 4px #e04b52
 }
+
 
 .toy-avatar {
   justify-self: center;
@@ -40,7 +41,7 @@ body {
 
 button {
   position: relative;
-  background-color: #e04b52;
+  background-color: black;
   border: none;
   border-radius: 5px;
   height: 3rem;
@@ -96,4 +97,9 @@ button:hover {
   font-size: 18px;
   font-family: monospace;
   margin: 3px;
+}
+
+.star-btn {
+  text-align: right;
+  color: gold;
 }
