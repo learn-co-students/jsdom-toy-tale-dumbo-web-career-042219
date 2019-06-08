@@ -53,6 +53,17 @@ toyForm.addEventListener('submit', (event)=> {
       document.querySelector('form').reset();
     })
 })
+// fetch('http://localhost:3000/toys', {
+//     method: 'post',
+//     headers: {
+//       "content-type": "application/json",
+//       "accepts": "application/json"
+//     },
+//     body: JSON.stringify({
+//       name: inputName.value,
+//       image: inputImage.value,
+//       likes: 0
+//     })
 
 addBtn.addEventListener('click', () => {
   // hide & seek with the form
