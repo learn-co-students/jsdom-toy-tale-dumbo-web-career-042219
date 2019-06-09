@@ -10,19 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 9
     },
     {
       "id": 5,
@@ -49,130 +37,34 @@
       "likes": -2
     },
     {
-      "name": "sdgh",
-      "image": "asdsfdgf",
-      "id": 9
-    },
-    {
-      "name": "sdfg",
-      "image": "asdfgh",
-      "id": 10
-    },
-    {
-      "name": "asdfasdf",
-      "image": "asdfasdfasdf",
-      "id": 11
-    },
-    {
-      "name": "sdfgh",
-      "image": "sdfghj",
-      "id": 12
-    },
-    {
-      "name": "asdfg",
-      "image": "asdfgh",
-      "id": 13
-    },
-    {
-      "name": "dfg",
-      "image": "dfghj",
-      "id": 14
-    },
-    {
-      "name": "asdklm",
-      "image": "asd",
+      "name": "mojo",
+      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
+      "likes": 0,
       "id": 15
     },
     {
-      "name": "asdklm",
-      "image": "asd",
-      "id": 16
-    },
-    {
-      "name": "adafnlk",
-      "image": "czxc",
-      "id": 17
-    },
-    {
-      "name": "adafnlkafdgdfaz",
-      "image": "czxc",
-      "id": 18
-    },
-    {
-      "name": "xcz",
-      "image": "czxc",
+      "name": "MOJO",
+      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
+      "likes": 0,
       "id": 19
     },
     {
-      "name": "asdxz",
-      "image": "ZCxv",
+      "name": "mojojo",
+      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
+      "likes": 0,
       "id": 20
     },
     {
-      "name": "asdxzgdsf",
-      "image": "ZCxv",
+      "name": "mojojojo",
+      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
+      "likes": 1,
       "id": 21
     },
     {
-      "name": "asdxzgdsf",
-      "image": "ZCxv",
-      "id": 22
-    },
-    {
-      "name": "nrwb",
-      "image": "sbdvzc",
-      "id": 23
-    },
-    {
-      "name": "nhsbdvz",
-      "image": "ZCv",
-      "id": 24
-    },
-    {
-      "name": "nhsbdvz",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 25
-    },
-    {
-      "name": "nhsbdvz",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 26
-    },
-    {
-      "name": "asgdhsfd",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 27
-    },
-    {
-      "name": "tenhbfvdz",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 28
-    },
-    {
-      "name": "hrtwgea",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 29
-    },
-    {
-      "name": "fagdsghaS",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 30
-    },
-    {
-      "name": "mtenwrbgs",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 31
-    },
-    {
-      "name": "lnkl .sd",
+      "name": "hhahahahahaha",
       "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
       "likes": 0,
-      "id": 32
-    },
-    {
-      "name": "mojo",
-      "image": "https://i.pinimg.com/236x/8a/7c/be/8a7cbe603b6522b70f076c08d8ba3f50--boomerang-cartoon-network-powerpuff-girls.jpg",
-      "id": 33
+      "id": 23
     }
   ]
 }
