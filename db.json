@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Pupper McPuppyface",
+      "image": "https://malialitman.files.wordpress.com/2014/06/funny-dog-one.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Derpface",
+      "image": "http://1sbgr11tfjsx2d624hk38x8z-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/silly-dog-face.jpg?utm_source=direct",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Mr. Steal Yo Girl",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/42/b1/f042b1e6-f637-2ce7-23eb-a8a212780629/source/512x512bb.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Yodoga",
+      "image": "http://i10.photobucket.com/albums/a130/LuAnnB/Doggies/VladDogula.jpg",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
